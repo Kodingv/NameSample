@@ -1,0 +1,24 @@
+body li {
+  list-style: none;
+}
+
+body .sample {
+  margin-top: 7rem;
+}
+
+body .Sample1-text {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 3rem;
+}
+
+body .Sample-font {
+  margin-top: 40px;
+  font-size: 1.3rem;
+}
+
+/* Sampel 2 */
+body .Sample2-text {
+  font-family: 'Aboreto', cursive;
+  font-size: 3rem;
+  font-weight: bold;
+}
