@@ -16,9 +16,32 @@ body .Sample-font {
   font-size: 1.3rem;
 }
 
-/* Sampel 2 */
+/* Sample 1-1*/
+body .Sample1_1-text {
+  margin-top: 4rem;
+  font-family: 'Caveat', cursive;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+/* Sample 2 */
 body .Sample2-text {
   font-family: 'Aboreto', cursive;
   font-size: 3rem;
   font-weight: bold;
+}
+
+
+/* Sample 3 */
+body .Sample3-text {
+  font-family: 'Aboreto', cursive;
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+
+/* Sample 4 */
+body .Sample4-text {
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
 }
